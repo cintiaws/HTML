@@ -1,0 +1,24 @@
+body{
+background-image: url(https://wallpapercave.com/wp/wp5702075.png);
+}
+
+#container{
+    padding: 100px 100px 50px 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: pink;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+#botaoEnviar{
+    color: white;
+    background-color: rgb(136, 76, 206);
+    border-radius: 20px;
+}
+
+#name, #mail, #senh, #DN, #dadi{
+    border-radius: 20px;
+}
